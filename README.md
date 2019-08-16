@@ -5,7 +5,7 @@ This python application will scrape through a HTML webpage using Beautiful Soup.
 Your computer will need to have python 3 installed. You can do this by heading over to https://www.python.org/downloads/
 
 # Instructions
-Once python3 is installed you will need to navigate to where the clone downloaded. It will download as a zip file so unzip the file. Once unzipped, navigate to the config.py file and make the necessary changes.
+Once python3 is installed you will need to navigate to where the clone downloaded. It will download as a zip file so unzip the file. Once unzipped, navigate to the config.py file and make the necessary changes. You can use a text editor like notepad++ or sublime. I built this using VS studio code.
 
 The config.py file has very clear instructions.
 
