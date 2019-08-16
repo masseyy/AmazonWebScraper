@@ -9,23 +9,23 @@ Once python3 is installed you will need to navigate to where the clone downloade
 
 The config.py file has very clear instructions. Same steps are on on the file also.
 
-# 1.  Enter webpage URL 
+1.  Enter webpage URL 
 
-# 2.  Search google for "My user agent" (no quotes) and copy/paste.
+2.  Search google for "My user agent" (no quotes) and copy/paste.
 
-# 3.  SMTP Email login settings (keep the single quotes)
+3.  SMTP Email login settings (keep the single quotes)
 
-# 4.  Sender/Receiver Email address
+4.  Sender/Receiver Email address
  
-# 5.  Checks if the current sale price is lower or equal to this value. (If current price on webpage is $5.99, change to 5.98). 
+5.  Checks if the current sale price is lower or equal to this value. (If current price on webpage is $5.99, change to 5.98). 
 
-# Postioning of characters for price on webpage. In FireFox or Chromeright click then inspect element. Make sure the picker is on and click on the product title then the price.
+# Postioning of characters for price on webpage. In FireFox or Chromeright right click, then inspect element. Make sure the picker is on and click on the product title then the price.
 
-# 6.  For finding the Product Title's id, using inspector you will see <span id="" copy the ID and paste it below. DEFAULT is set to: id="productTitle
+6.  For finding the Product Title's id, using inspector you will see <span id="" copy the ID and paste it below. DEFAULT is set to: id="productTitle
 
-# 7.  For finding the Product price's id, using inspector you will see <span id="" copy the ID and paste it below. DEFAULT is set to: id="priceblock_ourprice"
+7.  For finding the Product price's id, using inspector you will see <span id="" copy the ID and paste it below. DEFAULT is set to: id="priceblock_ourprice"
 
-# 8.  Try setting below values from 0-5 and change accordingly.
+8.  Try setting below values from 0-5 and change accordingly.
 
 Open terminal and change the directory to where the files are in the unzipped folder. You can do this on a MacOS computer like 'cd ./Downloads/AmazonWebScraper-master' (without the ') or by clicking and droping the folder into the terminal.
 
