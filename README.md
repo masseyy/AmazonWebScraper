@@ -9,7 +9,7 @@ Once python3 is installed you will need to navigate to where the clone downloade
 
 The config.py file has very clear instructions.
 
-Open terminal and change the directory to where the files are in the unzipped folder. You can do this on a MacOS computer like 'cd ./Downloads/AmazonWebScraper' or by clicking and droping the folder into the terminal.
+Open terminal and change the directory to where the files are in the unzipped folder. You can do this on a MacOS computer like 'cd ./Downloads/AmazonWebScraper-master' (without the ') or by clicking and droping the folder into the terminal.
 
 You can now type the command 'python3 app.py' (without the ') into the terminal. 
 Enjoy!
