@@ -19,7 +19,7 @@ The config.py file has very clear instructions. Same steps are on on the file al
  
 5.  Checks if the current sale price is lower or equal to this value. (If current price on webpage is $5.99, change to 5.98). 
 
-# Postioning of characters for price on webpage. In FireFox or Chromeright right click, then inspect element. Make sure the picker is on and click on the product title then the price.
+# Postioning of characters for price on webpage. In FireFox or Chrome right click, then inspect element. Make sure the picker is on and click on the product title then the price.
 
 6.  For finding the Product Title's id, using inspector you will see <span id="" copy the ID and paste it below. DEFAULT is set to: id="productTitle
 
